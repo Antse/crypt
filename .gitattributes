@@ -1,1 +1,1 @@
-secretfile
+secretfile filter=git-crypt diff=git-crypt
